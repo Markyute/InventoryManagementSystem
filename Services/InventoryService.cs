@@ -62,6 +62,7 @@ namespace ShoeInventory.Services
         public Supplier? GetSupplierById(int id) => _suppliers.FirstOrDefault(s => s.Id == id);
 
         // ==================== PRODUCT METHODS ====================
+        // Handles full CRUD operations for shoe products
 
         public void AddProduct(string name, string brand, string size, string color,
                                decimal price, int quantity, int categoryId, int supplierId)
