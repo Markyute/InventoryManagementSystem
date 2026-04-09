@@ -127,6 +127,7 @@ namespace ShoeInventory.Services
         }
 
         // ==================== STOCK METHODS ====================
+        // Handles restocking and deducting shoe inventory
 
         public void RestockProduct(int productId, int quantity, string performedBy)
         {
