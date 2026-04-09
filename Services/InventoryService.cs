@@ -172,6 +172,7 @@ namespace ShoeInventory.Services
         }
 
         // ==================== REPORTS ====================
+        // Low stock alerts, transaction history, and inventory value computation
 
         public List<TransactionRecord> GetAllTransactions() => new List<TransactionRecord>(_transactions);
 
