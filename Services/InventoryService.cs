@@ -29,6 +29,7 @@ namespace ShoeInventory.Services
         }
 
         // ==================== CATEGORY METHODS ====================
+        // Handles adding and retrieving shoe categories
 
         public void AddCategory(string name, string description = "")
         {
