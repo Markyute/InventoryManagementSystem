@@ -16,7 +16,7 @@
 | **Year & Section** | 3rd Year — BSIT-3A |
 | **School** | Bicol University Polangui |
 | **Project Type** | Midterm Exam — C# IT Elective 2 |
-| **Date Submitted** | April 2026 |
+| **Date Submitted** | April 9, 2026 |
 
 ---
 
