@@ -15,14 +15,14 @@
 | **GitHub Username** | [@Markyute](https://github.com/Markyute) |
 | **Year & Section** | 3rd Year — BSIT-3A |
 | **School** | Bicol University Polangui |
-| **Project Type** | Midterm Exam — C# IT Elective 2 |
+| **Project Type** | Midterm Laboratory Examination — C# IT Elective 2 |
 | **Date Submitted** | April 9, 2026 |
 
 ---
 
 ##  Project Description
 
-**Sole Inventory** is a CLI-based Inventory Management System built with **C# (.NET 8)** as my Midterm Exam output for our It Elective 2. I chose a **shoe business** as the theme because it is a realistic and practical business scenario that allowed me to fully demonstrate all OOP principles and inventory features required by the exam.
+**Sole Inventory** is a CLI-based Inventory Management System built with **C# (.NET 8)** as my Midterm Laboratory Exam output for our It Elective 2. I chose a **shoe business** as the theme because it is a realistic and practical business scenario that allowed me to fully demonstrate all OOP principles and inventory features required by the exam.
 
 The system manages everything a shoe store would need — from tracking products by brand, size, and color, to managing suppliers and categories, monitoring stock levels, and computing the total value of inventory.
 
@@ -132,7 +132,7 @@ The system loads sample shoe data automatically on first login to demonstrate al
 
 ##  Personal Note
 
-This project was built entirely by me, **John Mark C. Idanan**, as part of our Midterm Examination in IT Elective 2. 
+This project was built entirely by me, **John Mark C. Idanan**, as part of our Midterm Laboratory Examination in IT Elective 2. 
 
 Building this project helped me better understand how encapsulation, constructors, and access modifiers work together to create clean and maintainable code. The part I found most challenging was designing the `TransactionRecord` model to properly log every stock movement, and making sure the `InventoryService` correctly handles edge cases like insufficient stock or duplicate entries.
 
@@ -151,7 +151,7 @@ I am proud of the login system, the colorful console UI, and the fact that all 1
 
 ##  License
 
-This project was created for academic purposes as a Midterm Exam output at **Bicol University Polangui**, BSIT-3A, Academic Year 2025–2026.
+This project was created for academic purposes as a Midterm Laboratory Examination output at **Bicol University Polangui**, BSIT-3A, Academic Year 2025–2026.
 
 ---
 
