@@ -46,6 +46,7 @@ namespace ShoeInventory.Services
         public Category? GetCategoryById(int id) => _categories.FirstOrDefault(c => c.Id == id);
 
         // ==================== SUPPLIER METHODS ====================
+        // Handles adding and retrieving shoe suppliers
 
         public void AddSupplier(string name, string contactPerson, string phone, string email)
         {
