@@ -1,0 +1,38 @@
+## .gitignore for C# / .NET Console Application
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+*.user
+*.userprefs
+
+# Rider IDE
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+*.nuspec
+project.lock.json
+packages/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Publish output
+publish/
